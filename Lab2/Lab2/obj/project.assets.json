@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Web\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\THANH TRI\\OneDrive\\Documents\\Web\\Lab2\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "C:\\Web\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "C:\\Users\\THANH TRI\\OneDrive\\Documents\\Web\\Lab2\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\THANH TRI\\.nuget\\packages\\",
-      "outputPath": "C:\\Web\\Lab2\\Lab2\\Lab2\\obj\\",
+      "outputPath": "C:\\Users\\THANH TRI\\OneDrive\\Documents\\Web\\Lab2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
