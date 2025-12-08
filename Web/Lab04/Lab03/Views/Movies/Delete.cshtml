@@ -1,0 +1,53 @@
+﻿@model MvcMovieFinal.Models.Movie
+
+@{
+    ViewData["Title"] = "Xóa Phim";
+}
+
+<div class="container mt-5" style="max-width: 700px;">
+    <div class="card border-danger shadow">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0"><i class="bi bi-exclamation-triangle-fill"></i> Xác nhận Xóa</h4>
+        </div>
+        <div class="card-body">
+            <div class="alert alert-warning text-center" role="alert">
+                <strong>Cảnh báo!</strong> Hành động này không thể hoàn tác. Bạn có chắc chắn muốn xóa bộ phim này?
+            </div>
+
+            <table class="table table-bordered mt-3">
+                <tbody>
+                    <tr>
+                        <th class="bg-light w-35">@Html.DisplayNameFor(model => model.Title)</th>
+                        <td class="fw-bold text-danger fs-5">@Html.DisplayFor(model => model.Title)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">@Html.DisplayNameFor(model => model.Author)</th>
+                        <td>@Html.DisplayFor(model => model.Author)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">@Html.DisplayNameFor(model => model.Category)</th>
+                        <td>@Html.DisplayFor(model => model.Category.Name)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">@Html.DisplayNameFor(model => model.ProductionDate)</th>
+                        <td>@Html.DisplayFor(model => model.ProductionDate)</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light">@Html.DisplayNameFor(model => model.Price)</th>
+                        <td>@Html.DisplayFor(model => model.Price)</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <form asp-action="Delete" class="d-flex justify-content-center gap-3 mt-4">
+                <input type="hidden" asp-for="Id" />
+                <a asp-action="Index" class="btn btn-secondary px-4">
+                    <i class="bi bi-x-circle"></i> Hủy bỏ
+                </a>
+                <button type="submit" class="btn btn-danger px-4">
+                    <i class="bi bi-trash-fill"></i> Đồng ý Xóa
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

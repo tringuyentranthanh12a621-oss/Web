@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\migrations\\20251206042006_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\migrations\\20251206042006_addrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\migrations\\20251204130505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\migrations\\20251204130505_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|c:\\users\\thanh tri\\source\\repos\\web\\lab04\\lab03\\migrations\\20251208035122_addauthorandproductiondate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC78ED4-953C-4F9D-94DC-342D1DE0C444}|Lab03\\Lab4.csproj|solutionrelative:lab03\\migrations\\20251208035122_addauthorandproductiondate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Lab03\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Lab03\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:04:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:58:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:57:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:57:49.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T00:22:50.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab03\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab03\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:04:27.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Lab03\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\Movie.cs",
+              "RelativeToolTip": "Lab03\\Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:01:56.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T00:36:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T00:36:35.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T00:36:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T00:32:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251208035122_AddAuthorAndProductionDate.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251208035122_AddAuthorAndProductionDate.cs",
+              "RelativeDocumentMoniker": "Lab03\\Migrations\\20251208035122_AddAuthorAndProductionDate.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251208035122_AddAuthorAndProductionDate.cs",
+              "RelativeToolTip": "Lab03\\Migrations\\20251208035122_AddAuthorAndProductionDate.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T03:51:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T13:07:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03\\Program.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Program.cs",
+              "RelativeToolTip": "Lab03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:03:28.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab03\\appsettings.json",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\appsettings.json",
+              "RelativeToolTip": "Lab03\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T13:03:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Lab03\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Lab03\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:24:03.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:57:59.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:57:43.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab03\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\Category.cs",
+              "RelativeToolTip": "Lab03\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:01:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab03\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T03:58:12.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Lab03\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\SeedData.cs",
+              "RelativeToolTip": "Lab03\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAgAAACAMjMzMzMLwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:02:40.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251206042006_AddRating.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251206042006_AddRating.cs",
+              "RelativeDocumentMoniker": "Lab03\\Migrations\\20251206042006_AddRating.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251206042006_AddRating.cs",
+              "RelativeToolTip": "Lab03\\Migrations\\20251206042006_AddRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T04:20:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab03\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab03\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:36:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab03\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab03\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:36:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251204130505_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251204130505_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab03\\Migrations\\20251204130505_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Migrations\\20251204130505_InitialCreate.cs",
+              "RelativeToolTip": "Lab03\\Migrations\\20251204130505_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:05:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MvcMovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Data\\MvcMovieContext.cs",
+              "RelativeDocumentMoniker": "Lab03\\Data\\MvcMovieContext.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\source\\repos\\web\\Lab04\\Lab03\\Data\\MvcMovieContext.cs",
+              "RelativeToolTip": "Lab03\\Data\\MvcMovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:02:24.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model MvcMovieFinal.Models.Category
+
+@{
+    ViewData["Title"] = "Chi tiết Thể loại";
+}
+
+<div class="container mt-4" style="max-width: 800px;">
+    <div class="card shadow">
+        <div class="card-header bg-info text-white">
+            <h4 class="mb-0"><i class="bi bi-info-circle"></i> Chi tiết Thể loại</h4>
+        </div>
+        <div class="card-body">
+            <div class="row align-items-center mb-4">
+                <div class="col-md-2 text-center">
+                    <i class="bi bi-folder2-open display-3 text-secondary"></i>
+                </div>
+                <div class="col-md-10">
+                    <h3 class="text-primary fw-bold">@Html.DisplayFor(model => model.Name)</h3>
+                    <p class="text-muted">Mã ID: <strong>@Model.Id</strong></p>
+                </div>
+            </div>
+
+            <div class="border-top pt-3">
+                <h5 class="mb-3 text-secondary"><i class="bi bi-film"></i> Danh sách phim thuộc thể loại này:</h5>
+                @if (Model.Movies != null && Model.Movies.Any())
+                {
+                    <ul class="list-group">
+                        @foreach (var movie in Model.Movies)
+                        {
+                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                                <span>@movie.Title</span>
+                                <span class="badge bg-primary rounded-pill">@movie.Price.ToString("C")</span>
+                            </li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <div class="alert alert-light border text-center text-muted">
+                        Chưa có bộ phim nào trong thể loại này.
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="card-footer text-end">
+            <a asp-action="Index" class="btn btn-secondary me-2"><i class="bi bi-arrow-left"></i> Quay lại</a>
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning fw-bold"><i class="bi bi-pencil-square"></i> Đổi tên</a>
+        </div>
+    </div>
+</div>

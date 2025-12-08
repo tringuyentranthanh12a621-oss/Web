@@ -1,0 +1,105 @@
+﻿@model Lab03.Models.MovieGenreViewModel
+
+@{
+    ViewData["Title"] = "Danh sách Phim";
+}
+
+<div class="container-fluid mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white p-3">
+            <div class="row align-items-center">
+                <div class="col-md-3">
+                    <h4 class="mb-0"><i class="bi bi-film"></i> Quản lý Phim</h4>
+                </div>
+                <div class="col-md-9">
+                    <form asp-controller="Movies" asp-action="Index" method="get" class="row g-2 justify-content-end">
+                        <div class="col-auto">
+                            <select asp-for="MovieGenre" asp-items="Model.Genres" class="form-select">
+                                <option value="">-- Tất cả thể loại --</option>
+                            </select>
+                        </div>
+                        <div class="col-auto">
+                            <input type="text" asp-for="SearchString" class="form-control" placeholder="Tìm tên phim..." />
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-light text-primary fw-bold">Tìm kiếm</button>
+                        </div>
+                        <div class="col-auto border-start ps-3 ms-2">
+                            <a asp-action="Create" class="btn btn-warning fw-bold">
+                                <i class="bi bi-plus-circle"></i> Thêm Phim
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-body p-0">
+            @if (Model.Movies == null || !Model.Movies.Any())
+            {
+                <div class="alert alert-info m-3">Không tìm thấy bộ phim nào phù hợp.</div>
+            }
+            else
+            {
+                <table class="table table-striped table-hover align-middle mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.Movies![0].Title)</th>
+
+                            <th>@Html.DisplayNameFor(model => model.Movies![0].Author)</th>
+
+                            <th>Thể loại</th>
+
+                            <th>@Html.DisplayNameFor(model => model.Movies![0].ProductionDate)</th>
+
+                            <th>@Html.DisplayNameFor(model => model.Movies![0].Price)</th>
+                            <th>Rating</th>
+                            <th class="text-end">Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Movies!)
+                        {
+                            <tr>
+                                <td class="fw-bold text-primary">
+                                    @Html.DisplayFor(modelItem => item.Title)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Author)
+                                </td>
+
+                                <td>
+                                    <span class="badge bg-info text-dark">
+                                        @Html.DisplayFor(modelItem => item.Category.Name)
+                                    </span>
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ProductionDate)
+                                </td>
+
+                                <td class="fw-bold text-success">
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+                                <td>
+                                    <span class="badge bg-secondary">@Html.DisplayFor(modelItem => item.Rating)</span>
+                                </td>
+                                <td class="text-end">
+                                    <div class="btn-group btn-group-sm">
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-primary" title="Sửa"><i class="bi bi-pencil"></i></a>
+                                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info" title="Chi tiết"><i class="bi bi-eye"></i></a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger" title="Xóa"><i class="bi bi-trash"></i></a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+        <div class="card-footer text-muted text-center">
+            Hiển thị @Model.Movies?.Count() phim
+        </div>
+    </div>
+</div>

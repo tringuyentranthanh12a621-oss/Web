@@ -1,0 +1,39 @@
+﻿@model MvcMovieFinal.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa Thể loại";
+}
+
+<div class="container mt-5" style="max-width: 600px;">
+    <div class="card border-danger shadow">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0"><i class="bi bi-exclamation-triangle-fill"></i> Xác nhận xóa</h4>
+        </div>
+        <div class="card-body text-center">
+            <div class="mb-4">
+                <i class="bi bi-trash3 text-danger display-1"></i>
+            </div>
+
+            <h5 class="card-title text-danger mb-3">Bạn có chắc chắn muốn xóa thể loại này?</h5>
+            <p class="text-muted">Hành động này sẽ xóa thể loại <strong>"@Model.Name"</strong> khỏi hệ thống.</p>
+
+            @if (Model.Movies != null && Model.Movies.Any())
+            {
+                <div class="alert alert-warning text-start">
+                    <strong>Lưu ý:</strong> Đang có <strong>@Model.Movies.Count</strong> bộ phim thuộc thể loại này.
+                    Nếu xóa, các bộ phim này có thể bị mất thể loại hoặc gây lỗi hệ thống.
+                </div>
+            }
+
+            <form asp-action="Delete" class="mt-4">
+                <input type="hidden" asp-for="Id" />
+                <a asp-action="Index" class="btn btn-secondary px-4 me-2">
+                    <i class="bi bi-x-lg"></i> Hủy
+                </a>
+                <button type="submit" class="btn btn-danger px-4">
+                    <i class="bi bi-trash-fill"></i> Đồng ý Xóa
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

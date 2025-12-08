@@ -1,0 +1,35 @@
+﻿@model MvcMovieFinal.Models.Category
+
+@{
+    ViewData["Title"] = "Tạo Thể loại";
+}
+
+<div class="container mt-4" style="max-width: 600px;">
+    <div class="card shadow">
+        <div class="card-header bg-success text-white">
+            <h4 class="mb-0"><i class="bi bi-folder-plus"></i> Tạo Thể loại mới</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Name" class="form-control" placeholder="Tên thể loại" />
+                    <label asp-for="Name"></label>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary"><i class="bi bi-arrow-left"></i> Quay lại</a>
+                    <button type="submit" class="btn btn-success"><i class="bi bi-check-lg"></i> Tạo mới</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
