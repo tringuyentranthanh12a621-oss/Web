@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab5\\lab5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|solutionrelative:lab5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab5\\lab5\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B24E06A-AD5B-4201-97FF-DAC0C3411EB1}|Lab5\\Lab5.csproj|solutionrelative:lab5\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Lab5\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:40:30.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Lab5\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\WeatherForecast.cs",
+              "RelativeToolTip": "Lab5\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:39:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Lab5\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab5\\Lab5\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Lab5\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T04:28:22.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
