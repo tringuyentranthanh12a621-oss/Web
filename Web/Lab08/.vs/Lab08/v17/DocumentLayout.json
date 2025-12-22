@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\models\\viewmodels\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\viewmodels\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\migrations\\20251222040422_updatebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\migrations\\20251222040422_updatebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\carmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\services\\interfaces\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\models\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\interface\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\interface\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\repositories\\interface\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\repositories\\interface\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\migrations\\20251218034455_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\migrations\\20251218034455_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\lab08\\lab08\\migrations\\20251218041502_carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2B75C2-4D10-4231-87E5-1A2F90AC2224}|Lab08\\Lab08.csproj|solutionrelative:lab08\\migrations\\20251218041502_carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarVM.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\ViewModels\\CarVM.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\ViewModels\\CarVM.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\ViewModels\\CarVM.cs",
+              "RelativeToolTip": "Lab08\\Models\\ViewModels\\CarVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:16:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Lab08\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:37:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Car\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:44:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\Brand.cs",
+              "RelativeToolTip": "Lab08\\Models\\Brand.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:38:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:42:03.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08\\Program.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Program.cs",
+              "RelativeToolTip": "Lab08\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:41:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T04:55:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T04:55:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\Car.cs",
+              "RelativeToolTip": "Lab08\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:38:19.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\BrandService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Implementations\\BrandService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\BrandService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Implementations\\BrandService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:28:24.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab08\\appsettings.json",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\appsettings.json",
+              "RelativeToolTip": "Lab08\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T03:39:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:41:49.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Lab08\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:36:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T04:35:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAmwAsBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T08:24:37.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Implementations\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Implementations\\CarRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:03:46.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Implementations\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Implementations\\BrandRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:02:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Implementations\\CarService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\CarService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Implementations\\CarService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:28:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251222040422_updatebrand.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251222040422_updatebrand.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\20251222040422_updatebrand.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251222040422_updatebrand.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\20251222040422_updatebrand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:04:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:42:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Brand\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Brand\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:42:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Car\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Details.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Car\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:46:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Car\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Delete.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Car\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:46:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Car\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Car\\Edit.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Car\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T03:44:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\CarModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\CarModel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\CarModel\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\CarModel\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T04:56:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T04:54:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T12:28:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:07:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CarModelController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\CarModelController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Controllers\\CarModelController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\CarModelController.cs",
+              "RelativeToolTip": "Lab08\\Controllers\\CarModelController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:41:53.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:21:08.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Interfaces\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Interfaces\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:20:38.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Interfaces\\ICarModelService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Interfaces\\ICarModelService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Interfaces\\ICarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:21:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\CarModelService.cs",
+              "RelativeDocumentMoniker": "Lab08\\Services\\Implementations\\CarModelService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Services\\Implementations\\CarModelService.cs",
+              "RelativeToolTip": "Lab08\\Services\\Implementations\\CarModelService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:29:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab08\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:41:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CarModelVm.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\CarModelVm.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\CarModelVm.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Models\\CarModelVm.cs",
+              "RelativeToolTip": "Lab08\\Models\\CarModelVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:05:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Interface\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\ICarRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Interface\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:56:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Interface\\ICarModelRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\ICarModelRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Interface\\ICarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:54:48.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:04:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:45:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251218041502_CarmodelVm.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251218041502_CarmodelVm.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\20251218041502_CarmodelVm.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251218041502_CarmodelVm.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\20251218041502_CarmodelVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:15:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab08\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab08\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:38:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Lab08\\Repositories\\Interface\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Repositories\\Interface\\IBrandRepository.cs",
+              "RelativeToolTip": "Lab08\\Repositories\\Interface\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:53:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Lab08\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Lab08\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:45:46.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251218034455_Init.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251218034455_Init.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\20251218034455_Init.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\Lab08\\Lab08\\Migrations\\20251218034455_Init.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\20251218034455_Init.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:44:55.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

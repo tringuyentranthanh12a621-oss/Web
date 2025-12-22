@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Lab08.Models.Car>
+
+@{
+    ViewData["Title"] = "Danh sách Xe";
+}
+
+<div class="models_section layout_padding">
+    <div class="container">
+        <h1 class="models_taital">Danh sách Xe</h1>
+
+        <div class="text-right mb-4">
+            <a href="/Car/Create" class="btn btn-warning text-white font-weight-bold">
+                + Thêm Xe Mới
+            </a>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table table-bordered bg-white">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên Xe</th>
+                            <th>Hãng Xe</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Id</td>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        @(item.Brand != null ? item.Brand.Name : "Chưa cập nhật")
+                                    </td>
+                                    <td>
+                                        <a href="/Car/Edit/@item.Id" class="btn btn-sm btn-info">Sửa</a>
+                                        <a href="/Car/Delete/@item.Id" class="btn btn-sm btn-danger">Xóa</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="4" class="text-center">Chưa có dữ liệu xe.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

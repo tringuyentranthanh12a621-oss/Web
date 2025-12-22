@@ -1,0 +1,43 @@
+﻿@model Lab08.Models.Car
+
+@{
+    ViewData["Title"] = "Sửa Xe";
+}
+
+<div class="contact_section layout_padding">
+    <div class="container">
+        <h1 class="contact_taital">Cập Nhật Xe</h1>
+        <div class="contact_section_2">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="mail_section map_form_container" style="width: 100%;">
+                        <form asp-action="Edit">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="Id" />
+
+                            <label class="text-white ml-2 mt-2">Tên Xe</label>
+                            <input asp-for="Name" class="mail_text" />
+                            <span asp-validation-for="Name" class="text-danger pl-3"></span>
+
+                            <label class="text-white ml-2 mt-2">Hãng Xe</label>
+                            <div class="form-group">
+                                <select asp-for="BrandId" class="mail_text" asp-items="ViewBag.BrandId" style="height: 50px; background-color: #fdfdfd;">
+                                </select>
+                                <span asp-validation-for="BrandId" class="text-danger pl-3"></span>
+                            </div>
+
+                            <div class="map_btn_main mt-4">
+                                <div class="send_bt">
+                                    <button type="submit" style="background:none; border:none; color:white; font-weight:bold; cursor:pointer;">CẬP NHẬT</button>
+                                </div>
+                                <div class="map_bt ml-3">
+                                    <a asp-action="Index" style="color:white;">Hủy</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

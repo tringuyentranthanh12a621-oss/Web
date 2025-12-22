@@ -1,0 +1,29 @@
+﻿@model Lab08.Models.Brand
+
+@{
+    ViewData["Title"] = "Chi tiết Hãng Xe";
+}
+
+<div class="about_section layout_padding">
+    <div class="container">
+        <h1 class="about_taital">Thông tin Hãng Xe</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h3 class="text-warning">@Model.Name</h3>
+                        <p class="about_text mt-3">
+                            <strong>Mã Hãng (ID):</strong> @Model.Id <br />
+                            <strong>Quốc Gia:</strong> @(Model.Country ?? "Chưa cập nhật")
+                        </p>
+
+                        <div class="mt-4">
+                            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info text-white">Chỉnh sửa</a>
+                            <a asp-action="Index" class="btn btn-secondary ml-2">Quay lại</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

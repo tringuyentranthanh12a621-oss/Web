@@ -1,0 +1,37 @@
+﻿@model Lab08.Models.Car
+
+@{
+    ViewData["Title"] = "Chi tiết Xe";
+}
+
+<div class="about_section layout_padding">
+    <div class="container">
+        <h1 class="about_taital">Chi Tiết Xe</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-body text-center">
+                        <div class="about_img mb-4">
+                            <img src="~/Resources/images/img-1.png" style="max-width: 300px;">
+                        </div>
+
+                        <h2 class="text-warning">@Model.Name</h2>
+
+                        <div class="text-left mt-4 pl-5">
+                            <p class="about_text">
+                                <strong>ID Xe:</strong> @Model.Id <br />
+                                <strong>Thuộc Hãng:</strong> @(Model.Brand != null ? Model.Brand.Name : "Không xác định") <br />
+                                <strong>Xuất xứ hãng:</strong> @(Model.Brand != null ? Model.Brand.Country : "N/A")
+                            </p>
+                        </div>
+
+                        <div class="mt-5">
+                            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info text-white px-4">Sửa</a>
+                            <a asp-action="Index" class="btn btn-secondary ml-2 px-4">Quay lại</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

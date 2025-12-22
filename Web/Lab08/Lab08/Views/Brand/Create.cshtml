@@ -1,0 +1,48 @@
+﻿@model Lab08.Models.Brand
+
+@{
+    ViewData["Title"] = "Thêm Hãng Xe";
+}
+
+<div class="contact_section layout_padding">
+    <div class="container">
+        <h1 class="contact_taital">Thêm Hãng Xe</h1>
+        <div class="contact_section_2">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="mail_section map_form_container" style="width: 100%;">
+
+                        <form action="/Brand/Create" method="post">
+
+                            @Html.AntiForgeryToken()
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <input type="text" class="mail_text" name="Name" placeholder="Tên Hãng (Ví dụ: Toyota)" value="@Model?.Name" />
+                            <span asp-validation-for="Name" class="text-danger pl-3"></span>
+
+                            <input type="text" class="mail_text" name="Country" placeholder="Quốc gia (Ví dụ: Japan)" value="@Model?.Country" />
+                            <span asp-validation-for="Country" class="text-danger pl-3"></span>
+
+                            <div class="map_btn_main mt-4">
+                                <div class="send_bt">
+                                    <button type="submit" style="background:none; border:none; color:white; font-weight:bold; cursor:pointer;">LƯU LẠI</button>
+                                </div>
+                                <div class="map_bt ml-3">
+                                    <a href="/Brand/Index" style="color:white;">Hủy</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,64 @@
+﻿@model Lab08.Models.ViewModes.CarVM
+
+@{
+    ViewData["Title"] = "Thêm Xe Mới";
+}
+
+<div class="contact_section layout_padding">
+    <div class="container">
+        <h1 class="contact_taital">Thêm Xe Mới</h1>
+        <div class="contact_section_2">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="mail_section map_form_container" style="width: 100%;">
+
+                        <form asp-action="Create" method="post">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                            <div class="form-group">
+                                <label class="text-white">Tên Xe:</label>
+                                <input asp-for="Name" name="Name" class="mail_text" placeholder="Nhập tên xe..." />
+                                <span asp-validation-for="Name" class="text-danger pl-3"></span>
+                            </div>
+
+                            <div class="form-group mt-3">
+                                <label class="text-white">Hãng Xe:</label>
+                                <select asp-for="BrandId" name="BrandId" class="mail_text" asp-items="ViewBag.BrandId" style="height: 50px; background-color: #fdfdfd;">
+                                    <option value="">-- Chọn Hãng Xe --</option>
+
+                                    @* --- ĐOẠN MÃ DỰ PHÒNG (Backup) --- *@
+                                    @if (ViewBag.BrandId != null)
+                                    {
+                                        foreach (var item in (IEnumerable<SelectListItem>)ViewBag.BrandId)
+                                        {
+                                            <option value="@item.Value" selected="@item.Selected">@item.Text</option>
+                                        }
+                                    }
+                                    @* -------------------------------- *@
+                                </select>
+                                <span asp-validation-for="BrandId" class="text-danger pl-3"></span>
+                            </div>
+
+                            <div class="map_btn_main mt-4">
+                                <div class="send_bt">
+                                    <button type="submit" style="background:none; border:none; color:white; font-weight:bold; cursor:pointer;">LƯU LẠI</button>
+                                </div>
+                                <div class="map_bt ml-3">
+                                    <a asp-action="Index" style="color:white;">Hủy</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

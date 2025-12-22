@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Lab08.Models.Brand>
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Quản lý Hãng Xe";
+}
+
+<div class="models_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="models_taital">Quản lý Hãng Xe</h1>
+
+                <div class="text-right mb-4">
+                    <a asp-action="Create" class="btn btn-warning text-white font-weight-bold py-2 px-4">
+                        <i class="fa fa-plus"></i> Thêm Hãng Mới
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-responsive">
+                    <table class="table table-bordered table-hover bg-white shadow-sm">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th class="text-center" style="width: 10%">ID</th>
+                                <th style="width: 35%">Tên Hãng</th>
+                                <th style="width: 30%">Quốc Gia</th>
+                                <th class="text-center" style="width: 25%">Thao tác</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Any())
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="text-center font-weight-bold">@item.Id</td>
+                                        <td class="text-primary font-weight-bold">@item.Name</td>
+                                        <td>@(item.Country ?? "Chưa cập nhật")</td>
+                                        <td class="text-center">
+                                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-info mr-1">
+                                                <i class="fa fa-edit"></i> Sửa
+                                            </a>
+                                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger ml-1">
+                                                <i class="fa fa-trash"></i> Xóa
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="4" class="text-center py-4 text-muted">
+                                        <em>Chưa có dữ liệu hãng xe nào. Hãy thêm mới!</em>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
