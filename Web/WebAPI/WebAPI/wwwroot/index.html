@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Management</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Create Product</h1>
+    <form id="createForm">
+        <div class="form-group">
+            <label>Name:</label>
+            <input type="text" id="name" required>
+        </div>
+        <div class="form-group">
+            <label>Price:</label>
+            <input type="number" id="price" required>
+        </div>
+        <div class="form-group">
+            <label>Category:</label>
+            <select id="category" required>
+                <option value="">Loading...</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>Image:</label>
+            <input type="file" id="image">
+        </div>
+        <button type="submit">Create</button>
+    </form>
+
+    <script>
+        const API_URL = "https://localhost:7081/api"; // ĐỔI PORT CHO ĐÚNG VỚI MÁY BẠN
+
+        // 1. Load Categories khi trang vừa mở
+        document.addEventListener("DOMContentLoaded", function() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", API_URL + "/categories", true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var categories = JSON.parse(xhr.responseText);
+                    var select = document.getElementById("category");
+                    select.innerHTML = ""; // Xóa option loading
+
+                    categories.forEach(function(cat) {
+                        var option = document.createElement("option");
+                        option.value = cat.id;
+                        option.text = cat.name;
+                        select.appendChild(option);
+                    });
+                }
+            };
+            xhr.send();
+        });
+
+        // 2. Gửi Form (POST)
+        document.getElementById("createForm").addEventListener("submit", function(e) {
+            e.preventDefault();
+
+            var formData = new FormData();
+            formData.append("Name", document.getElementById("name").value);
+            formData.append("Price", document.getElementById("price").value);
+            formData.append("CategoryId", document.getElementById("category").value);
+            formData.append("Image", document.getElementById("image").files[0]);
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", API_URL + "/products", true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        alert("Success!");
+                        location.reload();
+                    } else {
+                        alert("Error Code: " + xhr.status);
+                    }
+                }
+            };
+            xhr.send(formData);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Migrations\\20251229035522_InitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Migrations\\20251229035522_InitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|c:\\users\\thanh tri\\downloads\\project_web\\web\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB153F98-FB87-49E2-8A75-4E8B9A4CA7D0}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:32:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:17:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:05:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:48:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:06:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:16:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebAPI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "WebAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-29T04:26:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:20:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:02:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:20:56.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:13:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:07:29.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:01:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "WebAPI\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:01:04.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "WebAPI\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:00:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "WebAPI\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:00:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "WebAPI\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:57:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251229035522_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Migrations\\20251229035522_InitDB.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20251229035522_InitDB.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Migrations\\20251229035522_InitDB.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20251229035522_InitDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:55:22.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T03:48:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:45:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:40:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\THANH TRI\\Downloads\\Project_web\\Web\\WebAPI\\WebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:40:22.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
